@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lyes Harrar
-- 👀 I’m interested in Web-Developpement, Ai and Digital-Marketing
+- 👀 I’m interested in Web-Developpement and Digital-Marketing
 - 📫 How to reach me : Lyesharrar@gmail.com
 
 <!---
